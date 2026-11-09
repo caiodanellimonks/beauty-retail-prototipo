@@ -2,10 +2,6 @@
 
 Protótipo em HTML da dashboard do Beauty Retail, com as 8 alterações que o cliente pediu em cima da V1. Todos os valores são fictícios.
 
-## Como abrir
-
-Abre o `v2/topo-funil.html` (o Comparativo). As páginas de cada marca abrem pela navegação no topo. O `index.html` da raiz só redireciona pra esse arquivo, caso o repo seja publicado.
-
 ## Onde está cada coisa
 
 - `v2/`: as 5 páginas (`topo-funil`, `neeche`, `lyb`, `phyto`, `bath`), a pasta `modulos/` da Phyto e o `NOTAS-V2.md`, que tem a tabela "ponto do cliente, onde está, como montar no Looker".
